@@ -22,4 +22,4 @@ C. Use DAX to create a new rolling calender table and the following calculated c
   2. revenue target
   3. monthly revenue based on previous month
   
-D. Add relationships between tables to create a variety of visualiztions and provide a product and customer base summary. 
+D. Add relationships between tables to create a variety of visualiztions that provide an in-depth product and customer base summary. 
