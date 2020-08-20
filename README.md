@@ -4,7 +4,8 @@
 Use MySQL and PowerBI to analyze product and customer data from the MavenMovie movie rental business.
 
 ### Tools Used
-MySQL, PowerBI
+- MySQL
+- PowerBI
 
 ## Methodology
 A. Utilize standard data normalization practices to write 6 queries in MySQL to create the following data tables from the MavenMovie Database:
