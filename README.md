@@ -13,9 +13,12 @@ A. Utilize standard data normalization practices to write 6 queries in MySQL to 
   3. Product Lookup Table
   4. Rental Lookup Table
   5. Staff Lookup Table
+  
 B. Import the tables into PowerBI via Power Query.
+
 C. Use DAX to create a new rolling calender table and the following calculated columns in the payments table:
   1. total revenue
   2. revenue target
   3. monthly revenue based on previous month
+  
 D. Add relationships between tables to create a variety of visualiztions and provide a product and customer base summary. 
