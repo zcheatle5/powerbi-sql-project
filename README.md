@@ -1,4 +1,4 @@
-# PowerBI-SQL-Pr
+# PowerBI-SQL-Pro
 
 ## Project Proposal
 Use MySQL and PowerBI to analyze product and customer data from the MavenMovie movie rental business.
